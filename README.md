@@ -1,8 +1,8 @@
 
 # Multi-API Automation Pipeline (Minimal)
 
-Minimal Python script that orchestrates calls to two public APIs and returns a merged result.
-Swap the endpoints via environment variables to adapt it to your automation use cases.
+ Python script that orchestrates calls to two public APIs and returns a merged result.
+
 
 ## Run
 ```bash
